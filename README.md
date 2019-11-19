@@ -112,6 +112,6 @@ E preencher o campo Dados Gerais
 E preencher o campo Dados Bancários
 E preencher o campo Assinatura
 E preencher o campo Envio de Documentos
-Então o sistema concede o empréstimo pesseoal.
+Então o sistema concede o empréstimo pessoal.
 
 
